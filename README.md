@@ -3,6 +3,8 @@
 
 Pint-sized stuff I learn on a regular basis, in a bunch of README files.
 
+You can find all my learnings in individual Markdown files in this repository.
+
 ## Author
 
 Bapusaheb Patil
