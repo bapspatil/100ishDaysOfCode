@@ -7,7 +7,7 @@ I read about SOAP and REST [here](https://searchapparchitecture.techtarget.com/d
 <br>
 Currently, I'm using Retrofit and FastAndroidNetworking with GSON for consuming REST APIs in Android.
 
-# GraphQL
+## GraphQL
 
 GraphQL seems to have a lot of advantages over REST. The [official website](https://graphql.org/) tells all the advantages over REST. Basically, it has selective quering, which makes it far more superior than REST.
 <br>
